@@ -1,3 +1,5 @@
-local module = {}
+print("Hello world!")
 
-return module
+print('wow')
+
+print('hu')
